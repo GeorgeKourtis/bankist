@@ -241,6 +241,7 @@ h4 {
   background: rgb(255, 255, 255);
   color: #333;
   border: none;
+  z-index: 20;
 }
 
 .top--arrow {
